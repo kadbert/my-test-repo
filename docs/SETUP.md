@@ -8,3 +8,4 @@
 
 Use small, focused commits.
 
+- setup note Thu Oct 16 23:41:34     2025
