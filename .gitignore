@@ -1,0 +1,8 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+
+# Node (про всяк випадок)
+node_modules/
+dist/
+
